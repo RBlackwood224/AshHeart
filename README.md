@@ -4,7 +4,12 @@ A real-time action roguelite for the Commodore 64. Descend 60 floors of an old m
 keep the eight soul lamps of Dunmere burning, and silence the Ashheart.
 
 ## Play
-Load `ashheart.prg` in VICE (x64sc), on TheC64 / C64 Maxi, or on a real C64.
+Download from the latest release:
+
+- **ashheart.d64** (recommended) – disk image with the game. Your saves go onto this same disk, so keep the file.
+  In VICE (x64sc) just drag it onto the window; on TheC64 / C64 Maxi copy it to a USB stick and start it from there.
+  On a real C64 or by hand: `LOAD"*",8,1` then `RUN`.
+- **ashheart.prg** – the bare program, for SD2IEC, Kung Fu Flash and similar devices.
 
 | Control | Action |
 |---|---|
@@ -17,12 +22,9 @@ Load `ashheart.prg` in VICE (x64sc), on TheC64 / C64 Maxi, or on a real C64.
 
 Save at the tavern to tape or disk (3 slots); load from the title screen.
 
-## Build
-    oscar64 -O1 ashheart.c
-
 ## Credits
 Game by Richie, 2026.
 Built with [Oscar64](https://github.com/drmortalwombat/oscar64).
-
+More games: https://github.com/RBlackwood224
 
 Free to download and play. All rights reserved.
