@@ -23,6 +23,6 @@ Save at the tavern to tape or disk (3 slots); load from the title screen.
 ## Credits
 Game by Richie, 2026.
 Built with [Oscar64](https://github.com/drmortalwombat/oscar64).
-More games: https://github.com/rblackwood224
+
 
 Free to download and play. All rights reserved.
