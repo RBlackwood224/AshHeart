@@ -11,6 +11,9 @@ Download from the latest release:
   On a real C64 or by hand: `LOAD"*",8,1` then `RUN`.
 - **ashheart.prg** – the bare program, for SD2IEC, Kung Fu Flash and similar devices.
 
+🇭🇺 **Magyar változat:** **ashhearthu.d64** / **ashhearthu.prg** – a teljes játék magyarul, ékezetekkel.
+Betöltés ugyanígy: `LOAD"*",8,1`, majd `RUN`.
+
 | Control | Action |
 |---|---|
 | Joystick (port 2) | Move |
@@ -25,6 +28,6 @@ Save at the tavern to tape or disk (3 slots); load from the title screen.
 ## Credits
 Game by Richie, 2026.
 Built with [Oscar64](https://github.com/drmortalwombat/oscar64).
-
+More games: https://github.com/RBlackwood224
 
 Free to download and play. All rights reserved.
