@@ -10,6 +10,7 @@ Download from the latest release:
   In VICE (x64sc) just drag it onto the window; on TheC64 / C64 Maxi copy it to a USB stick and start it from there.
   On a real C64 or by hand: `LOAD"*",8,1` then `RUN`.
 - **ashheart.prg** – the bare program, for SD2IEC, Kung Fu Flash and similar devices.
+- **ashheart_tape.prg** – a compressed build that fits on tape: `SAVE` it to cassette, then load it with SHIFT + RUN/STOP.
 
 🇭🇺 **Magyar változat:** **ashhearthu.d64** / **ashhearthu.prg** – a teljes játék magyarul, ékezetekkel.
 Betöltés ugyanígy: `LOAD"*",8,1`, majd `RUN`.
